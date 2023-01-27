@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668278321 source:f:\c\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1668277658 source:f:\c\lab8\q3.c
+
+1668278228 source:f:\c\lab8\q4.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1668278347 source:f:\c\lab8\q5.c
+
+1668278111 source:f:\c\lab8\q1.c
+
+1668278147 source:f:\c\lab8\q2.c
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1668274542 source:f:\c\line_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1668278536 source:f:\c\line_editor\line_editor.c
+	<conio.h>
+	<windows.h>
+
+1668278536 source:f:\c\lab7\line_editor.c
+	<conio.h>
+	<windows.h>
+
+1668279244 source:f:\c\lab7\q1.c
+
+1674784272 source:f:\c\lab7\main.c
+	<stdio.h>
+	<stdlib.h>
+

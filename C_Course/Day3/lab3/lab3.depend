@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1667741938 source:f:\c\lab3-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1667394550 source:f:\c\lab3-1\q1.c
+
+1667455814 source:f:\c\lab3-1\q2.c
+
+1667656298 source:f:\c\lab3-1\q3.c
+	<windows.h>
+	<time.h>
+
+1667394547 source:f:\c\lab3-1\q4.c
+
+1667511466 source:f:\c\lab3-1\q5.c
+
+1667394543 source:f:\c\lab3-1\q6.c
+
+1667394542 source:f:\c\lab3-1\q7.c
+
+1667462446 source:f:\c\lab3-1\q8.c
+
