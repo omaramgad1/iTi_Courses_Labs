@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668774060 source:f:\c\datastructure\queue_as_linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1668773817 f:\c\datastructure\queue_as_linked_list\queue.h
+
+1668774125 source:f:\c\datastructure\queue_as_linked_list\queue_linked.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+

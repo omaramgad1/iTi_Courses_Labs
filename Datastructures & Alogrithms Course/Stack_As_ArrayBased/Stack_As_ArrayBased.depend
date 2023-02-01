@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1668976349 source:f:\c\datastructure\stack_as_arraybased\stack.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1668976355 f:\c\datastructure\stack_as_arraybased\stack.h
+
+1668976379 source:f:\c\datastructure\stack_as_arraybased\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
